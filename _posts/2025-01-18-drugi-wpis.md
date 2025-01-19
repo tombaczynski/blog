@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Mój pierwszy wpis"
-date: 2025-01-18
+date: 2025-01-17 13:00 +0100
 categories: blog
 ---
 
-## Mój pierwszy wpis  
+## Drugi wpis  
 
 To jest przykładowy tekst w Markdown.
 

@@ -4,7 +4,7 @@ title: "The Real Reason Why Analog Recording Is Better"
 date: 2025-01-18
 categories: YouTube links
 ---
-[https://www.youtube.com/watch?v=Zq4BOSaKiYo](https://www.youtube.com/watch?v=Zq4BOSaKiYo)
+[![The Real Reason Why Analog Recording Is Better](https://img.youtube.com/vi/Zq4BOSaKiYo/0.jpg)](https://www.youtube.com/watch?v=Zq4BOSaKiYo)
 
 <!--
 - **Pogrubiony tekst**: '**tekst**'

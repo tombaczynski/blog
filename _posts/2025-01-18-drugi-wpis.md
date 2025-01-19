@@ -5,10 +5,11 @@ date: 2025-01-18
 categories: blog
 ---
 
-# Mój pierwszy wpis
+## Mój pierwszy wpis  
 
-To jest przykładowy tekst w Markdownie.
+To jest przykładowy tekst w Markdown.
 
 - **Pogrubiony tekst**: '**tekst**'
 - *Kursywa*: '*tekst*'
 - Link do strony: '[Google](https://google.com)'
+  

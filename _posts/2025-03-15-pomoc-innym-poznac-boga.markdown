@@ -19,6 +19,7 @@ Czasami sobie myślę, że jest grupa ludzi, która spełnia zewnętrzne warunki
 - jak zrobisz coś głupiego, to ze zrozumieniem, ale i mądrze podzieli się swoją prawdziwą troską o ciebie;
 - nie będzie Ci się narzucać, ale jak będziecie mieli okazję rozmawiać, to będzie szczerze zainteresowana Twoim szczęściem;
 - będzie potrafiła powiedzieć coś ciekawego i inspirującego o swoim Panu i Zbawicielu Jezusie Chrystusie.
+
 Co z tego, że będziesz pobożny, ale nie będziesz fajny? I co z tego, że będziesz fajny, ale nie będziesz pobożny[^2]?
 
 [^1]: Np. życie w prawym związku małżeńskim i cotygodniowe uczestnictwo w niedzielnej mszy świętej.

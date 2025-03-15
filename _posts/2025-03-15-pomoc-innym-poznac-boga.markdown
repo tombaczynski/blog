@@ -22,5 +22,7 @@ Czasami sobie myślę, że jest grupa ludzi, która spełnia zewnętrzne warunki
 
 Co z tego, że będziesz pobożny, ale nie będziesz fajny? I co z tego, że będziesz fajny, ale nie będziesz pobożny[^2]?
 
+A tu wspomniana na spotkaniu książka [Kerygmat Apostolski Dzisiaj](https://www.facebook.com/tomasz.baczynski.92/posts/pfbid02gEvJcX5RfojJfWu2Mz4WRPNZJV3KTwbpwEF8a8moBLuj5EG4LnNVP95W8f1HwcYdl) (przejście przez Facebooka bez konieczności logowania)
+
 [^1]: Np. życie w prawym związku małżeńskim i cotygodniowe uczestnictwo w niedzielnej mszy świętej.
 [^2]: Przypuszczam, że dla wielu osób pobożność nie kojarzy się z niczym pozytywnym, ale dla mnie prawdziwa pobożność, to jest coś bardzo wartościowego.

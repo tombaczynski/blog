@@ -5,7 +5,7 @@ date:   2025-03-30 22:38 +0200
 categories: Growth YouTube links
 ---
 
-["You Were the Smart Kid. So Why Do You Feel So Lost Now"](https://www.youtube.com/watch?v=U4PsIm9dDvs)
+["You Were the Smart Kid. So Why Do You Feel So Lost Now (YouTube)"](https://www.youtube.com/watch?v=U4PsIm9dDvs)
 
 in today's episode of the let's talk
 psychology podcast we're going to talk

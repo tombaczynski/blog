@@ -8,6 +8,9 @@ Niedziela Palmowa czyli Męki Pańskiej.
 Rok C.
 Nagranie mszy z Bazyliki św. Krzyża w Warszawie. 13.04.2025 r., godz. 9:00.
 Męka Pańska 08:35-32:00
+
 [Link mp3](https://static.prsa.pl/7d89788b-2ed6-463f-9c12-bf29d8275e7d.mp3)
 
 [Link do strony](https://jedynka.polskieradio.pl/audycje/4420)
+
+![passio](https://imgur.com/xH2emCx.jpg)

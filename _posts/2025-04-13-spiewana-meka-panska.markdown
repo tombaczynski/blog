@@ -13,4 +13,5 @@ Męka Pańska 08:35-32:00
 
 [Link do strony](https://jedynka.polskieradio.pl/audycje/4420)
 
-![passio](https://imgur.com/xH2emCx.jpg)
+[![passio](https://imgur.com/xH2emCx.jpg)](https://imgur.com/gallery/christ-crowned-with-thorns-is-c-1500-oil-on-panel-painting-by-albrecht-bouts-now-mus-e-des-beaux-arts-de-lyon-757JcIv#/t/christ)
+
